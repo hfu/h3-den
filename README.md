@@ -3,7 +3,7 @@ h3 point density experiment
 
 # usage
 ```console
-$ node index.js
+$ node index.js > index.geojson
 ```
 
 # required data
