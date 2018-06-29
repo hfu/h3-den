@@ -1,0 +1,24 @@
+{
+  "name": "h3-den",
+  "version": "1.0.0",
+  "description": "h3 point density experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/h3-den.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/h3-den/issues"
+  },
+  "homepage": "https://github.com/hfu/h3-den#readme",
+  "dependencies": {
+    "h3-js": "^3.0.1",
+    "shapefile": "^0.6.6"
+  }
+}
